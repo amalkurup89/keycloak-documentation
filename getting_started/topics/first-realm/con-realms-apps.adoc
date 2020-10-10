@@ -8,5 +8,5 @@ When you log in to the admin console, you work in a realm, which is a space wher
 
 * `Other realms` - These realms are created by the admin in the master realm. In these realms, administrators create users and applications. The applications are owned by the users.
 
-image:images/master_realm.png[Realms and applications]
+image:../../images/master_realm.png[Realms and applications]
 
